@@ -2,7 +2,7 @@
 An arcade game for the 2021-2022 FBLA competition
 
 ## About The Project
-![](/img/title_screen.jpg)
+![](/assets/title_screen.jpg)
 I developed Bird Catcher as an arcade game inspired by 1980s-style arcade games, such as Pac Man, Donkey Kong, or Frogger.
 
 
@@ -52,6 +52,19 @@ Try to catch the bird ![](/source/NaBlu.png) before it warps to a new location. 
 - [x] Add support for arcade buttons and joystick
 - [x] Implement leaderboard
 - [x] Create standalone executable
+
+
+
+## Development Planning
+
+The program was organized using five objects, as shown in the following Unified Modeling Language (UML) diagrams:
+![](/assets/UML_diagrams.jpg)
+
+<br />
+
+The game operations were managed by five functions, as shown in the following Input Process Output (IPO) charts:
+![](/assets/IPO_charts.jpg)
+
 
 
 ## License
