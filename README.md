@@ -34,8 +34,7 @@ Download all of the source files into a directory (or simply clone the repo to a
 You can use the WASD keys to move your character ![](/source/turtle.png)
 	
 > W - up  
-A - left  
-S - down  
+A - left   
 D - right  
 
 Try to catch the bird ![](/source/NaBlu.png) before it warps to a new location. Make sure to stay away from the cat ![](/source/cat.png) and the ghost ![](/source/ghost.png). Enemies will get harder as you level up. Get a high score to leave your mark on the leaderbaord!
