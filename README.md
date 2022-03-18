@@ -14,16 +14,22 @@ This game was developed in [Python3](https://www.python.org/) using [PyCharm](ht
 
 ## Getting Started
 
-### Building from Scratch
 
+
+### Using the Standalone Executable
+A standalone exectuable has been created for the Windows environment to be able to run Bird Catcher without installing any of its dependencies: Python3 and PyGame.
+##### Prerequisites
+None.
+##### Installation
+Download the file bird_catcher.exe and run it by double-clicking.
+
+### Building from Scratch
+You can run Bird Catcher from the source files.
 ##### Prerequisites
 If you want to run Bird Catcher from source, you will need to have Python3 and Pygame installed. The game is developed to be cross-platform and has been tested on Mac OSX and Linux (Ubuntu).
-
 ##### Installation
 Download all of the source files into a directory (or simply clone the repo to a local path). Using the terminal or command prompt, navigate to the folder and execute the following command:
 >python main.py
-
-### Using the Standalone Executable
 
 
 
