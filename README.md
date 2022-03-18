@@ -69,10 +69,10 @@ Project Link - [https://github.com/abc123321cb/bird-catcher](https://github.com/
 
 ## Acknowledgments
 <ul>
+<li>BeepBox - Sound effects and music were created by hand using this free online tool for sketching and sharing instrumental music - [https://www.beepbox.co/](https://www.beepbox.co/)</li>
 <li>PhotoPea - Images were saved with transparency as PNGs using this onlinbe photo editor - [https://www.photopea.com/](https://www.photopea.com/)</li>
 <li>Piskel - Images were created by hand using this free online sprite editor - [https://www.piskelapp.com/](https://www.piskelapp.com/)</li>
 <li>PyCharm - The game was developed using this free Python integrated development environment (IDE) - [https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/)</li>
 <li>Pygame - Game development was supported by this cross-platform set of Python modules - [https://www.pygame.org/](https://www.pygame.org/)</li>
 <li>Python - The game was coded using the Python3 (specifically 3.10.3) programming language - [https://www.python.org/](https://www.python.org/)</li>
-<li>??? - Sound effects and music were created by hand using this free online music editor - [???](???)</li>
 </ul>
