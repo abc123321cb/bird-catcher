@@ -38,7 +38,7 @@ A - left
 S - down  
 D - right  
 
-Try to catch the bird ![](/source/NaBlu.png) before it warps to a new location. Make sure to stay away from the cat ![](/source/cat.png) and the ghost ![](/source/ghost.png).
+Try to catch the bird ![](/source/NaBlu.png) before it warps to a new location. Make sure to stay away from the cat ![](/source/cat.png) and the ghost ![](/source/ghost.png). Enemies will get harder as you level up. Get a high score to leave your mark on the leaderbaord!
 
 
 
