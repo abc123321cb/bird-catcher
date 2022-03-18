@@ -32,14 +32,16 @@ Download all of the source files into a directory (or simply clone the repo to a
 
 ## Usage
 You can use the WASD keys to move your character ![](/source/turtle.png)
->W - up
+
+> W - up
 <br />
->A - Left
+> A - Left
 <br />
->S - Down
+> S - Down
 <br />
->D - Right
+> D - Right
 <br />
+
 Try to catch the bird ![](/source/NaBlu.png) before it warps to a new location. Make sure to stay away from the cat ![](/source/cat.png) and the ghost ![](/source/ghost.png).
 
 
