@@ -38,7 +38,11 @@ Download all of the source files into a directory (or simply clone the repo to a
 
 
 ## Roadmap
-
+- [x] Add second enemy type
+- [x] Add multiple levels
+- [x] Add support for arcade buttons and joystick
+- [x] Implement leaderboard
+- [x] Create standalone executable
 
 
 ## License
