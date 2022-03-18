@@ -5,9 +5,9 @@ import random
 import sys
 import pickle
 import pygame
-from pygame import mixer
 import config
 pygame.init()
+pygame.mixer.init()
 pygame.font.init()
 pygame.joystick.init()
 
@@ -409,7 +409,7 @@ def collide():
     config.health -= 1
     if config.health == 0:
         gameover()
-    damagesound = mixer.Sound('damage.mp3')
+    damagesound = pygame.mixer.Sound('damage.wav')
     damagesound.play()
 
 
@@ -528,8 +528,8 @@ if width > height:
     gameOverScreen = pygame.transform.scale(gameOverScreen, (height, height))
 else:
     gameOverScreen = pygame.transform.scale(gameOverScreen, (width, width))
-mixer.music.load('background_music.mp3')
-mixer.music.play(-1)
+pygame.mixer.music.load('background_music.wav')
+pygame.mixer.music.play(-1)
 
 # Gets all the screen wide images and scales them to the screen
 startselect = pygame.image.load('Startselect.png')
