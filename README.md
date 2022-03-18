@@ -45,6 +45,7 @@ Try to catch the bird ![](/source/NaBlu.png) before it warps to a new location. 
 - [x] Add NaBlu ![](/source/NaBlu.png)
 - [x] Add first enemy type ![](/source/cat.png)
 - [x] Add second enemy type ![](/source/ghost.png)
+- [x] Add code to support projectiles
 - [x] Update enemy AI
 - [x] Add multiple levels
 - [x] Add support for arcade buttons and joystick
