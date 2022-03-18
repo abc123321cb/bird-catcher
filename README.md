@@ -2,7 +2,7 @@
 An arcade game for the 2021-2022 FBLA competition
 
 ## About The Project
-![}](/img/title_screen.jpg)
+![](/img/title_screen.jpg)
 I developed Bird Catcher as an arcade game inspired by 1980s-style arcade games, such as Pac Man, Donkey Kong, or Frogger.
 
 
@@ -38,7 +38,8 @@ Download all of the source files into a directory (or simply clone the repo to a
 
 
 ## Roadmap
-- [x] Add second enemy type
+- [x] Add first enemy type ![](/source/cat.png)
+- [x] Add second enemy type ![](/source/ghost.png)
 - [x] Add multiple levels
 - [x] Add support for arcade buttons and joystick
 - [x] Implement leaderboard
