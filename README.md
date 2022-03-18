@@ -18,7 +18,7 @@ A standalone exectuable has been created for the Windows environment to be able 
 ##### Prerequisites
 None.
 ##### Installation
-Download the file bird_catcher.exe and run it by double-clicking.
+Download the file BirdCatcher.bat and the files in the /dist path. Run the BirdCatcher.bat shortcut file by double-clicking it. Alternatively, you can download the files in the /dist path and just double click the BirdCatcher.exe file.
 
 ### Building from Scratch
 You can run Bird Catcher from the source files.
