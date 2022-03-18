@@ -13,9 +13,6 @@ This game was developed in [Python3](https://www.python.org/) using [PyCharm](ht
 
 
 ## Getting Started
-
-
-
 ### Using the Standalone Executable
 A standalone exectuable has been created for the Windows environment to be able to run Bird Catcher without installing any of its dependencies: Python3 and PyGame.
 ##### Prerequisites
@@ -34,10 +31,17 @@ Download all of the source files into a directory (or simply clone the repo to a
 
 
 ## Usage
+You can use the WASD keys to move your character ![](/source/turtle.png)
+>W - up
+>A - Left
+>S - Down
+>D - Right
+Try to catch the bird ![](/source/NaBlu.png) before it warps to a new location. Make sure to stay away from the cat ![](/source/cat.png) and the ghost ![](/source/ghost.png).
 
 
 
 ## Roadmap
+- [x] Add player ![](/source/turtle.png)
 - [x] Add NaBlu ![](/source/NaBlu.png)
 - [x] Add first enemy type ![](/source/cat.png)
 - [x] Add second enemy type ![](/source/ghost.png)
