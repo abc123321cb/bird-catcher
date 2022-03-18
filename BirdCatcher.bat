@@ -1,0 +1,2 @@
+cd dist
+BirdCatcher.exe
