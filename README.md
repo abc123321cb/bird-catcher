@@ -38,8 +38,10 @@ Download all of the source files into a directory (or simply clone the repo to a
 
 
 ## Roadmap
+- [x] Add NaBlu ![](/source/NaBlu.png)
 - [x] Add first enemy type ![](/source/cat.png)
 - [x] Add second enemy type ![](/source/ghost.png)
+- [x] Update enemy AI
 - [x] Add multiple levels
 - [x] Add support for arcade buttons and joystick
 - [x] Implement leaderboard
