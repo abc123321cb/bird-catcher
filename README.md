@@ -7,6 +7,7 @@ I developed Bird Catcher as an arcade game inspired by 1980s-style arcade games,
 
 
 ## Built With
+This game was developed in [Python3](https://www.python.org/) using [PyCharm](https://www.jetbrains.com/pycharm/).
 
 ## Getting Started
 
