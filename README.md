@@ -23,7 +23,7 @@ Download the file BirdCatcher.bat and the files in the /dist path. Run the BirdC
 ### Building from Scratch
 You can run Bird Catcher from the source files.
 ##### Prerequisites
-If you want to run Bird Catcher from source, you will need to have Python3 and Pygame installed. The game is developed to be cross-platform and has been tested on Mac OSX and Linux (Ubuntu).
+If you want to run Bird Catcher from source, you will need to have Python3 and Pygame installed. The game is developed to be cross-platform and has been tested on Mac OSX and Linux (Debian).
 ##### Installation
 Download all of the source files into a directory (or simply clone the repo to a local path). Using the terminal or command prompt, navigate to the folder and execute the following command:
 >python main.py
