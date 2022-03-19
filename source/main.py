@@ -160,7 +160,6 @@ while True:
                     if hor_axis_pos == 0:
                         tortxvel = 0
 
-
             if event.type == pygame.KEYDOWN:
                 if event.key == pygame.K_a:
                     tortxvel = -tortspeed
